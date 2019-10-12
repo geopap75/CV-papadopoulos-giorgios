@@ -51,7 +51,8 @@
 *	Του προγράμματος LabVIEW
 
 Οκτώβριος, 2019
-![signature.png](https://github.com/geopap75/ERGASIA-1/commit/4e83843fe5519f11e02fba44b21ad95f482b894b?short_path=9448fe9#diff-9448fe9f079cb8620ff9496ecd16baff)
+
+![](signature.png)
 
 
 
